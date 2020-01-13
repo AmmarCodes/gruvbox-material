@@ -18,6 +18,18 @@
 - [Tmux](https://gist.github.com/sainnhe/b8240bc047313fd6185bb8052df5a8fb) by [@sainnhe](https://github.com/sainnhe/)
 - [Zsh](https://gist.github.com/sainnhe/f92372e14c59750b6ac8dc927ba9f7fe) by [@sainnhe](https://github.com/sainnhe/)
 
+# Credits
+
+- Color palette based on [gruvbox](https://github.com/morhetz/gruvbox) by [@morhetz](https://github.com/morhetz)
+- Color adjustments by [@sainnhe](https://github.com/sainnhe)
+
+# Inspirations
+
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox): original gruvbox
+- [atom.io](https://atom.io): the `white` color in the dark variant
+- [zefei/cake16](https://github.com/zefei/cake16): the `black` color in the light variant
+- [Google Material Design](https://www.material.io)
+
 # License
 
 [MIT License](./LICENSE) © Gruvbox Material
