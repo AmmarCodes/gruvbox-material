@@ -8,7 +8,7 @@
 | 𝐌𝐞𝐝𝐢𝐮𝐦 | ![medium-dark](https://user-images.githubusercontent.com/37491630/72215380-6c3b6b80-350a-11ea-947a-b17796017ea5.png) | ![medium-light](https://user-images.githubusercontent.com/37491630/72215381-6e052f00-350a-11ea-87e0-20d3f84b7519.png) |
 |  𝐒𝐨𝐟𝐭  |  ![soft-dark](https://user-images.githubusercontent.com/37491630/72215383-6fcef280-350a-11ea-98b6-f096b6f29965.png)  |  ![soft-light](https://user-images.githubusercontent.com/37491630/72215384-7198b600-350a-11ea-845a-ccb4ec468626.png)  |
 
-<p align="center">Gruvbox Material is a color scheme designed for eye protection, based on <a href="https://github.com/morhetz/gruvbox">morhetz/gruvbox</a>.</p>
+<p align="center" style="font-size:30px;">Gruvbox Material is a color scheme designed for eye protection, based on <a href="https://github.com/morhetz/gruvbox">morhetz/gruvbox</a>.</p>
 
 # Projects
 
