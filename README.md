@@ -32,8 +32,8 @@
 
 ## Credits
 
-- Color palette based on [gruvbox](https://github.com/morhetz/gruvbox) by [@morhetz](https://github.com/morhetz)
-- Color adjustments by [@sainnhe](https://github.com/sainnhe)
+- The color palette is based on [gruvbox](https://github.com/morhetz/gruvbox) by [@morhetz](https://github.com/morhetz)
+- The color palette is adjusted by [@sainnhe](https://github.com/sainnhe)
 
 ## Inspirations
 
