@@ -16,7 +16,8 @@
 
 ### Code Editor
 
-- [Visual Studio Code](https://github.com/sainnhe/gruvbox-material-vscode) by [@sainnhe](https://github.com/sainnhe/)
+- [Vim](https://github.com/gruvbox-material/vim) by [@gruvbox-material](https://github.com/gruvbox-material)
+- [Visual Studio Code](https://github.com/gruvbox-material/vscode) by [@gruvbox-material](https://github.com/gruvbox-material)
 
 ### Terminal Emulators
 
