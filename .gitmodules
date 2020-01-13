@@ -1,0 +1,12 @@
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/rsaihe/gruvbox-material-kitty
+[submodule "tilix"]
+	path = tilix
+	url = https://github.com/sainnhe/gruvbox-material-tilix
+[submodule "vim"]
+	path = vim
+	url = https://github.com/gruvbox-material/vim
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/gruvbox-material/vscode
