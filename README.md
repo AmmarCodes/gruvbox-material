@@ -25,6 +25,7 @@
 - [Kitty](https://github.com/rsaihe/gruvbox-material-kitty) by [@rsaihe](https://github.com/rsaihe/)
 - [Tilix](https://github.com/sainnhe/gruvbox-material-tilix) by [@sainnhe](https://github.com/sainnhe/)
 - [Windows Terminal](https://gist.github.com/sainnhe/587a1bba123cb25a3ed83ced613c20c0) by [@sainnhe](https://github.com/sainnhe/)
+- [iTerm2](https://github.com/AAlakkad/gruvbox-material-iterm2) by [@AAlakkad](https://github.com/AAlakkad)
 
 ### Other
 
